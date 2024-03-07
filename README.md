@@ -142,7 +142,7 @@ Once complete the script will output the file name and CID mappings to a file.
 
   
 
-`var: FOLDER_PATH` - The relative folder path to read and upload all local files to be pinned with Pinata. Defaulted to the `files` folder.
+`var: FOLDER_PATH` - The relative folder path to read and upload all local files to be pinned with Pinata.
 
   
 
@@ -182,9 +182,9 @@ node  ./src/upload-files.js
 
 {
 
-"one.png": "QmZPnX4481toHABEtvKFoCWoVuzFFQRBiA5QR2Cij9pjon",
+"some_pic.png": "some_CID",
 
-"two.png": "QmazpAaWf3Bb4qhSW9PnQXfj2URbQwdNbZvDr77RbwH7xb"
+"some_pic2.png": "some_CID2"
 
 }
 
@@ -226,7 +226,7 @@ Once complete the script will output the folder name and CID mapping to a file.
 
   
 
-`var: FOLDER_PATH` - The relative folder path to read and upload all local files to be pinned in Pinata as a folder container for the uploaded files. Defaulted to the `metadata` folder.
+`var: FOLDER_PATH` - The relative folder path to read and upload all local files to be pinned in Pinata as a folder container for the uploaded files. 
 
   
 
@@ -266,7 +266,7 @@ node  ./src/upload-folder.js
 
 {
 
-"metadata": "QmR5m9zJDSmrLnYMawrySYu3wLgN5afo3yizevAaimjvmD"
+"some_metadata": "some_CID"
 
 }
 

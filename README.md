@@ -99,9 +99,9 @@ The contents of the `.env` file should look similar to this:
 
 ```ini
 
-PINATA_API_KEY="a1237a8dcd87766ff4"
+PINATA_API_KEY="<insert here>"
 
-PINATA_API_SECRET="fb8654309ca8777asdf7558758123456asdf817166927aknnk888877"
+PINATA_API_SECRET="<insert here>"
 
 ```
 

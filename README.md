@@ -39,19 +39,19 @@ Clone the repository.
 
 ```bash
 
-git  clone  https://github.com/Coderrob/pinata-ipfs-scripts-for-nft-projects.git
+git  clone  https://github.com/Coderrob/pinata-ipfs-scripts-for-3dscan-projects.git
 
 ```
 
   
 
-Change directory to the `pinata-ipfs-scripts-for-nft-projects` folder.
+Change directory to the `pinata-ipfs-scripts-for-3dscan-projects` folder.
 
   
 
 ```bash
 
-cd  pinata-ipfs-scripts-for-nft-projects
+cd  pinata-ipfs-scripts-for-3dscan-projects
 
 ```
 
@@ -189,7 +189,7 @@ node  ./src/upload-files.js
 }
 
 ```
-
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
 
 ### :arrow_forward:Upload Folder
@@ -272,6 +272,8 @@ node  ./src/upload-folder.js
 
 ```
 
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
 ## :pencil2:Contribution
 #### :heavy_exclamation_mark:Disclaimer:heavy_exclamation_mark:
 :bell:This repo is a modified version from the **[pinata-ipfs-scripts-for-nft-projects](https://github.com/Coderrob/pinata-ipfs-scripts-for-nft-projects)**'s original repo.:bell:
@@ -280,3 +282,6 @@ node  ./src/upload-folder.js
  :two:. [dependabot[bot]](https://github.com/apps/dependabot)
  :three:. [lucky7323](https://github.com/lucky7323)
  :four:. [VampishWolf](https://github.com/VampishWolf)
+ :five:. [uglylieffy](https://github.com/uglylieffy)
+
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>

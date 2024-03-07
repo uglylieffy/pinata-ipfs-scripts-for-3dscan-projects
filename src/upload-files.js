@@ -68,8 +68,8 @@ const { log, error } = console;
   };
 
   try {
-    const OUTPUT_PATH = './output/uploaded-cids.json';
-    const FOLDER_PATH = 'files'; // Folder containing files to upload
+    const OUTPUT_PATH = './output/uploaded-cids.json'; // <<< default path and file name
+    const FOLDER_PATH = '<insert path>'; // Folder containing files to upload
     const cidMapping = {};
     const { files } = await recursive.read(FOLDER_PATH);
     if ((files && files.length) <= 0) {

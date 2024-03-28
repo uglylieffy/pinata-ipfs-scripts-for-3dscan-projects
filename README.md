@@ -358,7 +358,7 @@ node  ./src/upload-folder-folder.js
 
 ## :pencil2:Contribution
 #### :heavy_exclamation_mark:Disclaimer:heavy_exclamation_mark:
-:bell:This repo is a modified version from the **[pinata-ipfs-scripts-for-nft-projects](https://github.com/Coderrob/pinata-ipfs-scripts-for-nft-projects)**'s original repo.:bell:
+:bell:This repo is a modified version from the **[pinata-ipfs-scripts-for-nft-projects](https://github.com/Coderrob/pinata-ipfs-scripts-for-nft-projects)**'s original repo. :bell:
 
  :one:. [Coderrob](https://github.com/Coderrob)
  :two:. [dependabot[bot]](https://github.com/apps/dependabot)
